@@ -1,0 +1,11 @@
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.deps.json
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.runtimeconfig.json
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.runtimeconfig.dev.json
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.dll
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\bin\Debug\netcoreapp2.1\Exemplos.pdb
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.csprojAssemblyReference.cache
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.AssemblyInfo.cs
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.dll
+C:\Users\Diana\Documents\Renan - Aplicacoes na Internet\Inteligência Computacional\Exemplos\obj\Debug\netcoreapp2.1\Exemplos.pdb
